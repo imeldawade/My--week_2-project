@@ -32,6 +32,19 @@
 
 
 }
+
+/* green semi circle starts */ 
+.imd {
+    height: 1000px;
+    width: 1000px;
+    background-color: greenyellow;
+    border-radius: 50%;
+    float: right;
+    margin-top: -1500px;
+    margin-right: -42px;
+}
+
+/* green semi circle ends */
 .section1{
     float: left;
     width: 50%;
