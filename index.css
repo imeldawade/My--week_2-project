@@ -24,7 +24,7 @@
 }
 .logo{
     font-weight:bolder;
-    font-size: xx-large;
+    font-size:xx-large;
     
 }
 .background{
@@ -41,18 +41,27 @@
     border-radius: 50%;
     float: right;
     margin-top: -1500px;
-    margin-right: -42px;
+    margin-right: -12px;
 }
 
 /* green semi circle ends */
 .section1{
     float: left;
     width: 50%;
-    
-
+    margin-left: 90px;
 }
-.section1 h2 button{
-    text-color:#6CB840;
+.section1 h1 {
+    padding-bottom: 20px;
+}
+.section1 h2 {
+    padding-bottom: 15px;
+}
+
+.button{
+    /* text-color:#6CB840; */
+    background-color:#6CB840;
+    padding: 9px;
+    margin-top: 10px;
 }
 .section2 {
     width: 98%;
