@@ -1,0 +1,8 @@
+#Section1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 2px;
+
+}
