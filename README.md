@@ -18,6 +18,16 @@ Imelda wade
 ## Design Link
 
 ## Installation
+Home 
+About
+Our Menu
+Happy hour
+Street Food
+Catering
+Reservation
+Gallery
+
 
 
 ## License
+@Website Design
